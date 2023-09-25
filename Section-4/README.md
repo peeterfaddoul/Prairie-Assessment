@@ -1,0 +1,1 @@
+Read the MCQ and edit the .md file while mentioning the correct answer for each question. There can only be one possible right answer, to mark your input, mention your answer below each question next to "Answer:".
